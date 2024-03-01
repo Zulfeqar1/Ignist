@@ -4321,11 +4321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zulfeqarshiorzadeh/Desktop/ok, token/Ignist/Ignist.csproj",
+      "projectUniqueName": "/Users/zulfeqarshiorzadeh/Desktop/gitup/Ignist.csproj",
       "projectName": "Ignist",
-      "projectPath": "/Users/zulfeqarshiorzadeh/Desktop/ok, token/Ignist/Ignist.csproj",
+      "projectPath": "/Users/zulfeqarshiorzadeh/Desktop/gitup/Ignist.csproj",
       "packagesPath": "/Users/zulfeqarshiorzadeh/.nuget/packages/",
-      "outputPath": "/Users/zulfeqarshiorzadeh/Desktop/ok, token/Ignist/obj/",
+      "outputPath": "/Users/zulfeqarshiorzadeh/Desktop/gitup/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zulfeqarshiorzadeh/.nuget/NuGet/NuGet.Config"
