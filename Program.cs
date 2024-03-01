@@ -12,7 +12,8 @@ var configuration = builder.Configuration;
 
 // Add services to the container.
 
-#region MY Code
+#region cosmosdb tilkobling
+//Test
 
 
 builder.Services.AddSingleton((provider) =>
@@ -76,7 +77,7 @@ builder.Services.AddAuthentication(options =>
 #endregion
 
 
-#region My Code
+#region Dette er publication tilkalling
 builder.Services.AddScoped<IPublicationsRepository, PublicationsRepository>();
 #endregion
 
@@ -91,7 +92,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseAuthentication();
+app.UseAuthentication(); // ny
 app.UseAuthorization();
 
 app.MapControllers();
